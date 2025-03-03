@@ -85,14 +85,6 @@ An example for three different detailed human body part paragraphs (BPMPs) for t
 Each item in the list (i.e. the value of key "000314") represents a fine-grained human body movement paragraph for the entire motion sequence.
 
 
-## Citation
-
-If you are using FineMotion dataset, please consider citing the following papers:
-```
-
-```
-
-
 
 ## Acknowledgments
 Thanks to [HumanML3D](https://github.com/EricGuo5513/HumanML3D/)), our repository is partially borrowing from them.
