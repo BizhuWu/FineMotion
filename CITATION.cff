@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Wu"
+  given-names: "Bizhu"
+- family-names: "Xie"
+  given-names: "Jinheng"
+- family-names: "Ding"
+  given-names: "Meidan"
+- family-names: "Kong"
+  given-names: "Zhe"
+- family-names: "Ren"
+  given-names: "Jianfeng"
+- family-names: "Bai"
+  given-names: "Ruibin"
+- family-names: "Qu"
+  given-names: "Rong"
+- family-names: "Shen"
+  given-names: "Linlin"
+title: "FineMotion Dataset"
+version: 0.0.1
+doi: 
+date-released: 
+url: "https://github.com/BizhuWu/FineMotion"
