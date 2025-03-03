@@ -58,12 +58,12 @@ An example of all the detailed human body part snippet descriptions (BPMSDs) in 
 {
     "000314": # name of motion sequence
     [
-        "",                                                                                     # 0.0s-0.5s’ BPMSD
+        "",            # 0.0s-0.5s’ BPMSD
         "Raise your hands up to your head. Turn your head to the left.”,
-        "",                                                                                     # 1.0s-1.5s’ BPMSD
-        "",                                                                                     # 1.5s-2.0s’ BPMSD
+        "",            # 1.0s-1.5s’ BPMSD
+        "",            # 1.5s-2.0s’ BPMSD
         "Lean to the right. Move your hands closer together. Turn your head to the left.",
-        "",                                                                                     # 2.5s-3.0s’ BPMSD
+        "",            # 2.5s-3.0s’ BPMSD
         "Lower your arms to your sides. Turn your head to the left.",
         "Lean your upper body to the right. Move your right hand to your right thigh. Move your left hand to your left thigh."
     ],
