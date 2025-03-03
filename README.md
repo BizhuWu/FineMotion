@@ -86,5 +86,18 @@ Each item in the list (i.e. the value of key "000314") represents a fine-grained
 
 
 
+## Citation
+
+If you are using FineMotion dataset, please consider citing this repository:
+```
+@misc{Wu_FineMotion_Dataset,
+    author = {Wu, Bizhu and Xie, Jinheng and Ding, Meidan and Kong, Zhe and Ren, Jianfeng and Bai, Ruibin and Qu, Rong and Shen, Linlin},
+    title = {{FineMotion Dataset}},
+    url = {https://github.com/BizhuWu/FineMotion}
+}
+```
+
+
+
 ## Acknowledgments
 Thanks to [HumanML3D](https://github.com/EricGuo5513/HumanML3D/), our repository is partially borrowing from them.
