@@ -87,4 +87,4 @@ Each item in the list (i.e. the value of key "000314") represents a fine-grained
 
 
 ## Acknowledgments
-Thanks to [HumanML3D](https://github.com/EricGuo5513/HumanML3D/)), our repository is partially borrowing from them.
+Thanks to [HumanML3D](https://github.com/EricGuo5513/HumanML3D/), our repository is partially borrowing from them.
