@@ -3,10 +3,10 @@
 FineMotion provides strictly aligned, fine-grained descriptions of human body part movements (BPM) for both motion snippets (short segments of motion sequences) and entire motion sequences, with motions sourced from [HumanML3D](https://github.com/EricGuo5513/HumanML3D/)).
 
 <div  align="center">    
-  <img src="./assets/fig_datateset_examples.png"  height = "500" alt="datateset_examples" align=center />
+  <img src="./assets/fig_datateset_examples.png" alt="datateset_examples" align=center />
 </div>
 
-<be>
+<br>
 
 
 
@@ -44,13 +44,13 @@ For our fine-grained textual descriptions, you could directly download them from
 
 ```sh
 <FineMotion>
-./BPMP_auto.json        // Automatically-Generated Body Part Movement Paragraph.
-./BPMSD_auto.json       // Automatically-Generated Body Part Snippet Descriptions.
-./BPMP_human.json       // Human-Annotated Body Part Movement Paragraph. Coming Soon!
-./BPMSD_human.json      // Human-Annotated Body Part Snippet Description. Coming Soon!
+./BPMP_auto.zip        // Automatically-Generated Body Part Movement Paragraph.
+./BPMSD_auto.zip       // Automatically-Generated Body Part Snippet Descriptions.
+./BPMP_human.zip       // Human-Annotated Body Part Movement Paragraph. Coming Soon!
+./BPMSD_human.zip      // Human-Annotated Body Part Snippet Description. Coming Soon!
 ```
 
-
+Unzip all files under the folder "./FineMotion" to obtain four JSON files: 'BPMP_auto.json', 'BPMSD_auto.json', 'BPMP_human.json', and 'BPMSD_human.json'. 
 All JSON files use a dictionary format. The keys follow the same naming protocols as HumanML3D for consistency, while the values contain fine-grained textual descriptions of the corresponding motion sequences in HumanML3D. Specifically, the description in the value of the key "XXXXXX" (e.g., '000000') precisely describes the human motion stored in "./new_joints (or new_joint_vecs)/XXXXXX.npy" (e.g., '000000.npy') in HumanML3D.
 
 An example of all the detailed human body part snippet descriptions (BPMSDs) in a whole human motion sequence is shown below:
