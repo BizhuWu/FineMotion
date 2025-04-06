@@ -33,6 +33,11 @@ If this dataset is useful in your projects, we will apprecite your star on this 
 
 
 
+## Checkout Works on FineMotion
+📌 (CVPR 2025) MG-MotionLLM: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities [[paper](https://arxiv.org/abs/2504.02478)][[code](https://github.com/CVI-SZU/MG-MotionLLM)]
+
+
+
 ## How to Obtain the Data
 For motion sequences, you could find the details as well as download link [here](https://github.com/EricGuo5513/HumanML3D/)).
 
